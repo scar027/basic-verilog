@@ -1,0 +1,176 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdecoder
+Z1 I41X?T^kezc>G?UNFGL[Di1
+Z2 V:d=Q@ieT4][BBmb<=O:QM0
+Z3 dC:\Users\shant\Desktop\Class\BECE102P\simulation\simulation5
+Z4 w1696786790
+Z5 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21.v
+Z6 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 Jn8Soc;o_d9PG`R2ld^361
+!s85 0
+Z10 !s108 1696786793.690000
+Z11 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21.v|
+!s101 -O0
+vdecoder_21_tb
+!i10b 1
+!s100 hWCKLRK^SR7:ZblYAS;FT3
+IPI4Ga0PjnBS<7`kL6WXZI1
+VHMRQ@9o8b3T9;ZlfW?^H>0
+R3
+w1696787007
+8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21_tb.v
+FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1696787010.571000
+!s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21_tb.v|
+!s101 -O0
+R8
+vdemux
+Z13 !s100 S5n]OQl3<?Y4BiH2Y4R@J3
+Z14 IF3>mC`6V_ELBDnk3?ZhKH3
+Z15 V17B1NBl0OdidJ9Ve@^ASe1
+R3
+Z16 w1695246606
+Z17 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14.v
+Z18 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14.v|
+R8
+Z20 !s108 1696784053.919000
+Z21 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdemuxtest
+Z22 !s100 DJ2G@1k<8zOW]b3_R?N7S2
+Z23 IM`MEBDL[aU@k8?3]RWF3f2
+Z24 V<[=S<DES5aK:J[0B`bjOn2
+R3
+Z25 w1695246687
+Z26 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14_tb.v
+Z27 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14_tb.v
+L0 1
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14_tb.v|
+R8
+Z29 !s108 1696784054.057000
+Z30 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux
+Z31 I34ebdl4giQ]UTo?ikoK`>2
+Z32 V=BA<PM<`0`hK_;]0<]G542
+R3
+Z33 w1696783981
+Z34 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_case.v
+Z35 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_case.v
+L0 1
+R7
+r1
+31
+R8
+Z36 !s100 _<<l?5gJaKdRG^`JRV?k00
+Z37 !s108 1696783981.218000
+Z38 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_case.v|
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_case.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_41
+Z40 !s100 Lh46EHb]S>@ok6XN[]^Ff1
+Z41 IHclhVI;=;5:oi^T5o;`La2
+Z42 VTQBbBDYPo;FHflC?12<<D3
+R3
+Z43 w1695246342
+Z44 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41.v
+Z45 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41.v
+L0 1
+R7
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41.v|
+R8
+Z47 !s108 1696784053.468000
+Z48 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_41_case
+Z49 IV>;9m_X4DFl?1Fe5`o;Uj3
+Z50 Voe6kXzfYM0c7i0mC5b=8@2
+R3
+Z51 w1696784048
+R34
+R35
+L0 1
+R7
+r1
+31
+R39
+R8
+Z52 !s100 [W4[SY7BeHGmMQl_:3>QL0
+Z53 !s108 1696784053.770000
+R38
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_41_tb
+Z54 I5aY:z^5GMCQ6Nm<hZfS1:1
+Z55 V5WSDDalSz:N3>VOj6^daj1
+R3
+Z56 w1696784033
+Z57 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_tb.v
+Z58 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_tb.v
+L0 1
+R7
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_tb.v|
+R8
+Z60 !s100 zGG>P[DVof0dbCdaBV[8E1
+Z61 !s108 1696784053.625000
+Z62 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_41tb
+Z63 IzGBWYYB0jKG<gV0C4cQOI1
+Z64 VcFdWT:MHig=]?iG]Vmc`m0
+R3
+Z65 w1695246422
+R57
+R58
+L0 1
+R7
+r1
+31
+R59
+R8
+Z66 !s100 zljQ_BzgDdf_GBNGjSD`m0
+Z67 !s108 1695246422.229000
+R62
+!i10b 1
+!s85 0
+!s101 -O0

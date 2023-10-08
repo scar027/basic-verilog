@@ -1,0 +1,50 @@
+C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_41
+
+Top level modules:
+	mux_41
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_tb.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_41_tb
+
+Top level modules:
+	mux_41_tb
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module demux
+
+Top level modules:
+	demux
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14_tb.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/demux_14_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module demuxtest
+
+Top level modules:
+	demuxtest
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21_tb.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/decoder_21_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_21_tb
+
+Top level modules:
+	decoder_21_tb
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_case.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation5/mux_41_case.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_41_case
+
+Top level modules:
+	mux_41_case
+
+} {} {}}
