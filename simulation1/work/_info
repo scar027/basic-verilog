@@ -1,0 +1,176 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vall_gate
+Z1 !s100 cjOLB6lW]@eCKSZ9CPL2<0
+Z2 I6N5SY=:LhjL@`UC[n6KeO2
+Z3 Vc8DLb`mA72a1?L7AzZoz`0
+Z4 dC:\Users\shant\Desktop\Class\BECE102P\simulation\simulation1
+Z5 w1692982934
+Z6 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/all_gate.v
+Z7 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/all_gate.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/all_gate.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1693139293.168000
+Z12 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/all_gate.v|
+!s101 -O0
+vand_gate
+Z13 !s100 n`aM64?>LXh26B8oG>Jj03
+Z14 Ii<ILOo`Pia`81Lz9CYgSM0
+Z15 V<B4DQmEX72kYg>K6nN37X2
+R4
+Z16 w1692979720
+Z17 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate.v
+Z18 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate.v|
+R10
+Z20 !s108 1693139292.456000
+Z21 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vand_gate_df
+!i10b 1
+!s100 MXCEd?3[a_h_MTfNc_61T2
+IgXQ_e?o:AAKM`D]J`[RgM2
+VJVcmgJiBU3[1@TgMBz90E0
+R4
+w1696785998
+8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate_df.v
+FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate_df.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1696786000.794000
+!s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate_df.v|
+!s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate_df.v|
+!s101 -O0
+R10
+vnand_gate
+Z22 !s100 :I3AYKAmXj6mVTMVGImm>3
+Z23 Ii2;F6I<QDK_81cLMi?J9Z2
+Z24 VOUm;15F?J5fAJV1f5S_[J3
+R4
+Z25 w1692979949
+Z26 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nand_gate.v
+Z27 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nand_gate.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nand_gate.v|
+R10
+Z29 !s108 1693139292.765000
+Z30 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nand_gate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnor_gate
+Z31 !s100 BhB7J?m_HE9?XNl8AS97I0
+Z32 IdQJ6gA5Xb>7]agf0H]eA^0
+Z33 VG=nfU;Izz7CzzdI;iPKPI2
+R4
+Z34 w1692983113
+Z35 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nor_gate.v
+Z36 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nor_gate.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nor_gate.v|
+R10
+Z38 !s108 1693139292.863000
+Z39 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nor_gate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnot_gate
+Z40 !s100 X]j;e`F9B`FDeN<m9a6lD1
+Z41 IBA6zdk0a@ZRS37Gjg3=C?3
+Z42 Vk<Ghf2jJMQ=cj??>=@T8Z0
+R4
+Z43 w1692979223
+Z44 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/not_gate.v
+Z45 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/not_gate.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/not_gate.v|
+R10
+Z47 !s108 1693139292.661000
+Z48 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/not_gate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vor_gate
+Z49 !s100 O5n=JkXc1nP96HK;`BBKU0
+Z50 IA^^oU_ajP4jeJLWZ1AAH52
+Z51 VUUGoFWDLVKK<`4V:K014_0
+R4
+Z52 w1692980881
+Z53 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/or_gate.v
+Z54 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/or_gate.v
+L0 1
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/or_gate.v|
+R10
+Z56 !s108 1693139292.564000
+Z57 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/or_gate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vxnor_gate
+Z58 !s100 dR>CjPT4hVSKT1T@QKP[W3
+Z59 InVDgdaINdaAXSF8b>]L^L3
+Z60 V2e6O>f92@A<FKFUc35n?72
+R4
+Z61 w1692981180
+Z62 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xnor_gate.v
+Z63 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xnor_gate.v
+L0 1
+R8
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xnor_gate.v|
+R10
+Z65 !s108 1693139293.073000
+Z66 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xnor_gate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vxor_gate
+Z67 !s100 h;UjRDj=Z9;4f3Fc9NPC<1
+Z68 IVjD`?9?2N5M7a^EWZF8Yf0
+Z69 VZnaVWI;QS0fGPH7U2TK2?3
+R4
+Z70 w1692981373
+Z71 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xor_gate.v
+Z72 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xor_gate.v
+L0 1
+R8
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xor_gate.v|
+R10
+Z74 !s108 1693139292.978000
+Z75 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xor_gate.v|
+!i10b 1
+!s85 0
+!s101 -O0

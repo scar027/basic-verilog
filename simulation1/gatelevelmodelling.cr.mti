@@ -1,0 +1,64 @@
+C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xnor_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xnor_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module xnor_gate
+
+Top level modules:
+	xnor_gate
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nor_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nor_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module nor_gate
+
+Top level modules:
+	nor_gate
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate_df.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/and_gate_df.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module and_gate_df
+
+Top level modules:
+	and_gate_df
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/all_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/all_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module all_gate
+
+Top level modules:
+	all_gate
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xor_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/xor_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/or_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/or_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nand_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/nand_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module nand_gate
+
+Top level modules:
+	nand_gate
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/not_gate.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation1/not_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module not_gate
+
+Top level modules:
+	not_gate
+
+} {} {}}
