@@ -1,0 +1,22 @@
+C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_fa.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_fa.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rca_fa
+
+Top level modules:
+	rca_fa
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_adder.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rca_adder
+
+Top level modules:
+	rca_adder
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_test.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rca_test
+
+Top level modules:
+	rca_test
+
+} {} {}}

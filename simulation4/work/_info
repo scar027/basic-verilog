@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vrca_adder
+Z1 IT>E]c?XK@lHX2I;aGBTn40
+Z2 VO7MKcKLM48Z=I?k=n^BB=2
+Z3 dC:\Users\shant\Desktop\Class\BECE102P\simulation\simulation4
+Z4 w1693431852
+Z5 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_adder.v
+Z6 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_adder.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 =no^j4=QMNHYb3ePLo1`B1
+Z10 !s108 1693431857.220000
+Z11 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_adder.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrca_fa
+Z13 Il:JZWXZQaKaX?ba?A1=eY3
+Z14 V]z7]3:k3BQd<OP3XPOLH>2
+R3
+Z15 w1693431454
+Z16 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_fa.v
+Z17 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_fa.v
+L0 1
+R7
+r1
+31
+R8
+Z18 !s100 iW1ioQ__Y5Y_2NicH`2;:3
+Z19 !s108 1693431469.538000
+Z20 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_fa.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_fa.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrca_subtactor
+Z22 !s100 @<=Fg@B^7f=YV_l=Ed^>@3
+Z23 IO<Vl<9T0;QV85hgd@O40j2
+Z24 V5i_fV_]K8icfGJ2jiK>8B2
+R3
+Z25 w1695247812
+Z26 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor.v
+Z27 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor.v
+L0 1
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor.v|
+R8
+Z29 !s108 1695248105.009000
+Z30 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrca_subtractor_tb
+!i10b 1
+!s100 j2T>O88R2jM<Y<VoSO4YL3
+IoCJi7K?O9a1RPm7<M=NzA1
+Z31 VJ[5T?]HKW<PDGbiYcGcSO1
+R3
+w1695248786
+Z32 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor_tb.v
+Z33 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1695248787.128000
+!s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor_tb.v|
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_subtractor_tb.v|
+!s101 -O0
+R8
+vrca_tb
+Z35 IAoYc@m_2@KAo2?YcHDDGZ3
+Z36 V8mk]z[VGX3fSSNHIP<o>F2
+R3
+Z37 w1693432498
+Z38 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_tb.v
+Z39 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_tb.v
+L0 1
+R7
+r1
+31
+R8
+Z40 !s100 Jzk@McO^NHhkZKg50VYkX2
+Z41 !s108 1693432503.540000
+Z42 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_tb.v|
+Z43 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrca_test
+Z44 !s100 :C3cARUQ44Yi^zP[6Kln70
+Z45 I:THDWeobTd3J6`[d_WlUz2
+Z46 V>o_2ZA7K8;RziZ<aSh_6V3
+R3
+Z47 w1693433179
+Z48 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_test.v
+Z49 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_test.v
+L0 1
+R7
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_test.v|
+R8
+Z51 !s108 1695248331.554000
+Z52 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation4/rca_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
