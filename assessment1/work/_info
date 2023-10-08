@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vaoi_dfm
+Z1 I[83Y7VBCYVKhR4>8=l>lL0
+Z2 V9_E5RG[8DHn?cKa6:IPVT2
+Z3 dC:\Users\shant\Desktop\Class\BECE102P\simulation\assessment1
+Z4 w1693399115
+Z5 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_dfm.v
+Z6 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_dfm.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 5DQXfh=caaBAgP=X^BM5O2
+Z10 !s108 1693399140.064000
+Z11 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_dfm.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_dfm.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vaoi_glm
+Z13 I53D<b12A1oQT?H4@di<070
+Z14 V=e[k`[N5MF_Qmf[K:k]AC2
+R3
+Z15 w1693370807
+Z16 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_glm.v
+Z17 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_glm.v
+L0 1
+R7
+r1
+31
+R8
+Z18 !s100 l>NKJ^0J6E4SQzNMJJ:U:3
+Z19 !s108 1693370807.485000
+Z20 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_glm.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_glm.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vckt_bvc
+Z22 I^PVfYMU@SEZSo?72T9Q?W3
+Z23 VO;ZFg`2^jCUjQFC@@UPV62
+R3
+Z24 w1693409259
+Z25 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_bvc.v
+Z26 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_bvc.v
+L0 1
+R7
+r1
+31
+R8
+Z27 !s100 `B`R;E[AHPXOKkDdf;hXb2
+Z28 !s108 1693409264.986000
+Z29 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_bvc.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_bvc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vckt_tb
+!i10b 1
+!s100 4HIN`Ico1eW2;40K57a:<2
+I1RH]OhThjX<3L4jLZRfbk2
+Z31 VOAO`KHOA3l1RPW03RfNT?3
+R3
+w1693481548
+Z32 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_tb.v
+Z33 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1693481548.598000
+!s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_tb.v|
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_tb.v|
+!s101 -O0
+R8

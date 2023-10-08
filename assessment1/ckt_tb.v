@@ -1,0 +1,27 @@
+module ckt_tb();
+  reg a, b, c, d;
+  wire out;
+  ckt_bvc a1(out, a, b, c, d);
+  initial
+  begin
+    $display("Shantanu Pai 22BEC0982 \n");
+    $monitor($time , "a=%b b=%b c=%b d=%b out=%b ", a, b, c, d, out);
+    a = 1'b0; b = 1'b0; c = 1'b0; d = 1'b0; 
+    #100 a = 1'b0; b = 1'b0; c = 1'b0; d = 1'b1; 
+    #100 a = 1'b0; b = 1'b0; c = 1'b1; d = 1'b0; 
+    #100 a = 1'b0; b = 1'b0; c = 1'b1; d = 1'b1; 
+    #100 a = 1'b0; b = 1'b1; c = 1'b0; d = 1'b0; 
+    #100 a = 1'b0; b = 1'b1; c = 1'b0; d = 1'b1; 
+    #100 a = 1'b0; b = 1'b1; c = 1'b1; d = 1'b0; 
+    #100 a = 1'b0; b = 1'b1; c = 1'b1; d = 1'b1; 
+    #100 a = 1'b1; b = 1'b0; c = 1'b0; d = 1'b0; 
+    #100 a = 1'b1; b = 1'b0; c = 1'b0; d = 1'b1; 
+    #100 a = 1'b1; b = 1'b0; c = 1'b1; d = 1'b0; 
+    #100 a = 1'b1; b = 1'b0; c = 1'b1; d = 1'b1; 
+    #100 a = 1'b1; b = 1'b1; c = 1'b0; d = 1'b0; 
+    #100 a = 1'b1; b = 1'b1; c = 1'b0; d = 1'b1; 
+    #100 a = 1'b1; b = 1'b1; c = 1'b1; d = 1'b0; 
+    #100 a = 1'b1; b = 1'b1; c = 1'b1; d = 1'b1; 
+    #100 $stop;
+  end
+endmodule

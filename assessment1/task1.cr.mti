@@ -1,0 +1,29 @@
+C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_tb.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ckt_tb
+
+Top level modules:
+	ckt_tb
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_dfm.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_dfm.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module aoi_dfm
+
+Top level modules:
+	aoi_dfm
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_bvc.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/ckt_bvc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ckt_bvc
+
+Top level modules:
+	ckt_bvc
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_glm.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment1/aoi_glm.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module aoi_glm
+
+Top level modules:
+	aoi_glm
+
+} {} {}}
