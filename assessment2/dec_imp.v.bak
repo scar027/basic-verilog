@@ -1,0 +1,19 @@
+module dec_imp (
+  input wire [3:0] in,
+  output reg [15:0] out);
+
+  always @(in) begin
+    case (in)
+      4'b000: out <= 16'b00000001;
+      4'b001: out <= 16'b00000010;
+      4'b010: out <= 16'b00000100;
+      4'b011: out <= 16'b00001000;
+      4'b100: out <= 16'b00010000;
+      4'b101: out <= 16'b00100000;
+      4'b110: out <= 16'b01000000;
+      4'b111: out <= 16'b10000000;
+      default: out <= 16'b0;
+    endcase
+  end
+
+endmodule

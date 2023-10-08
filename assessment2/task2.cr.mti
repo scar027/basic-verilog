@@ -1,0 +1,22 @@
+C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module beh_cond
+
+Top level modules:
+	beh_cond
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/decoder_implementation.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/decoder_implementation.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_implementation
+
+Top level modules:
+	decoder_implementation
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond_tb.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module beh_cond_tb
+
+Top level modules:
+	beh_cond_tb
+
+} {} {}}

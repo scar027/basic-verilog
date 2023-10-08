@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vbeh_cond
+Z1 !s100 dc>`NhhQEBH3K^Y5^Oo;U1
+Z2 Iz>f<`nk`6eJi^e@0__DNF1
+Z3 VTOaoDhB_KJSTjQJb9RWZP3
+Z4 dC:\Users\shant\Desktop\Class\BECE102P\simulation\assessment2
+Z5 w1694103094
+Z6 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond.v
+Z7 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond.v|
+Z10 o-work work -O0
+Z11 !s108 1694103094.243000
+Z12 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbeh_cond_tb
+!i10b 1
+Z13 !s100 V5QF?`RSSMX2d9FjWY<bg3
+Z14 I`CO3kffJDk<iMB]WN@mP_0
+Z15 VV>2NeESWPIEIQa@iQG>Ez3
+R4
+Z16 w1694103175
+Z17 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond_tb.v
+Z18 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1694103192.168000
+!s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/beh_cond_tb.v|
+!s101 -O0
+R10
+vdec_imp
+Z20 I5z7kziLY_FikgE7kSS9LF1
+Z21 VZ?6XfKl>4T1Q1OLM^;GO00
+R4
+Z22 w1694062000
+Z23 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp.v
+Z24 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp.v
+L0 1
+R8
+r1
+31
+R10
+Z25 !s100 _oe=hmT0M2aWKI=fin5:92
+Z26 !s108 1694062001.010000
+Z27 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp.v|
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdec_imp_tb
+Z29 IKIlL[8OE>zLA>9kJfLlGn0
+Z30 VR_kInWXOA7e5<gDh6eP5b2
+R4
+Z31 w1694102320
+Z32 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp_tb.v
+Z33 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp_tb.v
+L0 1
+R8
+r1
+31
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp_tb.v|
+R10
+Z35 !s100 ?]ehPc2:70AWF0aA2eLfD3
+Z36 !s108 1694102323.719000
+Z37 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/dec_imp_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_implementation
+Z38 !s100 bIZD=2>cz7UC1C:I746j[3
+Z39 Iz3o[Q`gOH[R99SUA]2a<n2
+Z40 VB7CfAZ@2Iz@nGZ8a[]ci`0
+R4
+Z41 w1694065628
+Z42 8C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/decoder_implementation.v
+Z43 FC:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/decoder_implementation.v
+L0 1
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/decoder_implementation.v|
+R10
+Z45 !s108 1694101305.851000
+Z46 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/assessment2/decoder_implementation.v|
+!i10b 1
+!s85 0
+!s101 -O0
