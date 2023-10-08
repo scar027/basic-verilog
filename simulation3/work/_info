@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vfaif
+Z1 Iih:TPV2K6GMANlhYMB2kb2
+Z2 V7^mBWg@XU>:>;VecBd`AT3
+Z3 dC:\Users\shant\Desktop\Class\BECE102P\simulation\simulation3
+Z4 w1693025903
+Z5 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif.v
+Z6 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 H=5BiL:QoYdU[8AQ2lHE52
+Z10 !s108 1693025903.963000
+Z11 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder
+!i10b 1
+Z13 !s100 De6o]FcV^d5@nDYKmi09z1
+Z14 I0gCX1P^c5XiACkLgl>U9H1
+Z15 VaneMUU0Ja^hCSV^GanK@l2
+R3
+w1696787665
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1696787665.953000
+!s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif.v|
+R12
+!s101 -O0
+R8
+vfulladder_test
+Z16 !s100 f1A9cP<VRWEF6O4>DD_Zz2
+Z17 IcVImdBRD9^lY85NAH3]EW2
+Z18 V@dRc`G@^?ZT`;>3mTGg8E1
+R3
+Z19 w1693027049
+Z20 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif_tb.v
+Z21 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif_tb.v
+L0 1
+R7
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif_tb.v|
+R8
+Z23 !s108 1693110329.338000
+Z24 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/faif_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalf_adder
+Z25 !s100 V567lX=TdaHAGjaI^7j>N3
+Z26 I[P>[h?UHNf^Z_jcG`z]:a3
+Z27 VOQb]4ij`TRcoBfQdhV8V]2
+R3
+Z28 w1692987351
+Z29 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif.v
+Z30 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif.v
+L0 1
+R7
+r1
+31
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif.v|
+R8
+Z32 !s108 1693025964.628000
+Z33 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfadder_test
+Z34 !s100 DHX3hJP2B>VYT57GcZQUD0
+Z35 InF9oWf5boAPK9cPiPmW5O2
+Z36 VmANZ]3gb<g6zHFjmEU<;W1
+R3
+Z37 w1693026778
+Z38 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif_tb.v
+Z39 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif_tb.v
+L0 1
+R7
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif_tb.v|
+R8
+!i10b 1
+!s85 0
+Z41 !s108 1693131636.125000
+Z42 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation3/haif_tb.v|
+!s101 -O0
