@@ -1,0 +1,29 @@
+C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/sr_latch_nor.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/sr_latch_nor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sr_latch_nor
+
+Top level modules:
+	sr_latch_nor
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/sr_latch_wcip.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/sr_latch_wcip.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sr_latch_wcip
+
+Top level modules:
+	sr_latch_wcip
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/sr_latch_nor_tb.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/sr_latch_nor_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sr_latch_nor_tb
+
+Top level modules:
+	sr_latch_nor_tb
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/dlatch_nand.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation6/dlatch_nand.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dlatch_nand
+
+Top level modules:
+	dlatch_nand
+
+} {} {}}
