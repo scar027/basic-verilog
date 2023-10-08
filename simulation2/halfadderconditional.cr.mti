@@ -1,0 +1,29 @@
+C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfaddernestedif.v {1 {vlog -work work {C:\Users\shant\Desktop\Class\BECE102P\simulation\simulation2\halfaddernestedif.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module halfadder2
+
+Top level modules:
+	halfadder2
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderif.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderif.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module halfadderif
+
+Top level modules:
+	halfadderif
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfaddercase.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfaddercase.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module halfadder3
+
+Top level modules:
+	halfadder3
+
+} {} {}} C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderiftb.v {1 {vlog -work work C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderiftb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module halfadderiftb
+
+Top level modules:
+	halfadderiftb
+
+} {} {}}

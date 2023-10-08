@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vhalfadder2
+Z1 I`49>iPDPh25_KTzKlfFhP0
+Z2 V4zAz4IW72@TD>EjF:jZ?Y3
+Z3 dC:\Users\shant\Desktop\Class\BECE102P\simulation\simulation2
+Z4 w1692983494
+Z5 8C:\Users\shant\Desktop\Class\BECE102P\simulation\simulation2\halfaddernestedif.v
+Z6 FC:\Users\shant\Desktop\Class\BECE102P\simulation\simulation2\halfaddernestedif.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 N4l[nN1]]fA@KlK1HL=321
+Z10 !s108 1692983545.564000
+Z11 !s107 C:\Users\shant\Desktop\Class\BECE102P\simulation\simulation2\halfaddernestedif.v|
+Z12 !s90 -reportprogress|300|-work|work|C:\Users\shant\Desktop\Class\BECE102P\simulation\simulation2\halfaddernestedif.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfadder3
+Z13 IcPoED6?01Q72@Q9XII:<P0
+Z14 V=Jz1WUMe7Ji4ZGAZ5iFON0
+R3
+Z15 w1694036709
+Z16 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfaddercase.v
+Z17 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfaddercase.v
+L0 1
+R7
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfaddercase.v|
+R8
+!i10b 1
+Z19 !s100 l`5U:E0gEVAjJ<PMP:A5b0
+!s85 0
+Z20 !s108 1694036715.233000
+Z21 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfaddercase.v|
+!s101 -O0
+vhalfadderif
+Z22 INNa;lzgSNDTDXOPYTPTUH1
+Z23 VgCb:Hefe9m`O;62DTPTSl3
+R3
+Z24 w1694036123
+Z25 8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderif.v
+Z26 FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderif.v
+L0 1
+R7
+r1
+31
+R8
+Z27 !s100 MoA1oezcSTiB:n?@KW9mm0
+Z28 !s108 1694036134.917000
+Z29 !s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderif.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderif.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfadderiftb
+!i10b 1
+!s100 QidOFgCTHJBN<nU^l[JXJ1
+I]lcK50?^_8eR?V1LCbVI]0
+V;<k;];bZG8[Nz7AM[NL9f3
+R3
+w1696787273
+8C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderiftb.v
+FC:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderiftb.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1696787284.106000
+!s107 C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderiftb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/shant/Desktop/Class/BECE102P/simulation/simulation2/halfadderiftb.v|
+!s101 -O0
+R8
